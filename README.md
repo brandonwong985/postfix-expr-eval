@@ -1,5 +1,4 @@
 # postfix-expr-eval
-Assignment for CPSC-3400 Languages and Computation at Seattle University.  
 Practicing F# and functional programming practices.  
 This project implements **reverse Polish notation** with a few extra special characters.  
 > "In reverse Polish notation, the operators follow their operands; for instance, to add 3 and 4 together, one would write 3 4 + rather than 3 + 4." from https://en.wikipedia.org/wiki/Reverse_Polish_notation  
